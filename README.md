@@ -19,3 +19,6 @@ general unity style guide -> https://github.com/justinwasilenko/Unity-Style-Guid
 C# official coding conventions -> https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions 
 
 C# official documentation -> https://learn.microsoft.com/en-us/dotnet/csharp
+
+
+nerd
